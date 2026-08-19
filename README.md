@@ -1,2 +1,1 @@
-# Readme
-Hello, I'm Nikhil Sharma
+# Hello, I'm Nikhil Sharma
